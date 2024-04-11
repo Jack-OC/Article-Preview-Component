@@ -24,13 +24,19 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop-View](./screenshots/Desktop-View.png)
+
+![Desktop-View-Active](./screenshots/Desktop-View-Active.png)
+
+![Mobile-View](./screenshots/Mobile-View.png)
+
+![Mobile-View-Active](./screenshots/Mobile-View-Active.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Jack-OC/Article-Preview-Component)
+- Live Site URL: (https://jack-oc.github.io/Article-Preview-Component/)
 
 ## My process
 
